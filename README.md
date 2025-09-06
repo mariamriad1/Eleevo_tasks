@@ -1,4 +1,4 @@
-# Eleevo_tasks.
+# Elevvo_tasks.
 👩‍💻 Frontend Internship Portfolio
 This repository serves as a portfolio of front-end projects developed during my internship. The projects focus on building clean, responsive, and interactive web components using modern web technologies. Each component is self-contained to showcase a specific functionality.
 
