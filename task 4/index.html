@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>My Blog</title>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="header-container">
+            <h1 class="blog-title">My Blog</h1>
+        </div>
+    </header>
+    <!-- Main Content -->
+     <main class="main-content">
+        <!-- Filter & search -->
+    <div class="controls-container">
+        <div class="filter-buttons">
+            <button class="filter-btn active" data-category="All">All</button>
+            <button class="filter-btn" data-category="Tech">Tech</button>
+            <button class="filter-btn" data-category="Travel">Travel</button>
+            <button class="filter-btn" data-category="Food">Food</button>
+        </div>
+
+        <div class="search-container">
+           <input type="text" id="search-input" placeholder="Search by title..." class="search-input">
+           <svg xmlns="http://www.w3.org/2000/svg" class="search-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" /></svg>
+        </div>
+        </div>
+
+          <!-- Blog Post Cards Container -->
+        <div id="posts-container" class="posts-container">
+            <!-- Blog posts will be injected here by JavaScript -->
+        </div>
+
+        <!-- Pagination -->
+        <div id="pagination-container" class="pagination-container">
+            <!-- Pagination buttons will be injected here by JavaScript -->
+        </div>
+    </main>
+<script src="script.js"></script>
+</body>
+</html>
