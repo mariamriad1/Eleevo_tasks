@@ -14,6 +14,7 @@ Collapsible Sidebar: A reusable UI component that provides a navigation menu tha
 Contact Form: A functional contact form with basic validation. It showcases form handling and user input processing.
 
 Technologies Used
+
 HTML: The core structure of all web pages.
 
 CSS: Custom styling for all components to ensure a consistent and professional look.
@@ -22,6 +23,7 @@ JavaScript: Provides dynamic functionality for filtering, searching, pagination,
 
 Installation and Setup:
 To get a local copy of this project up and running, follow these simple steps.
+
 Clone the repository:
 git clone https://github.com/mariamriad1/Eleevo_tasks.git
 
