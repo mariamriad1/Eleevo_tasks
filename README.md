@@ -31,6 +31,8 @@ Simply open the index.html file for each project in your web browser to view the
 Contact
 If you have any questions, feedback, or would like to connect, feel free to reach out.
 
-Name: [Mariam Riad]
-Email: [mariamriad285@gmail.com]
-LinkedIn: [https://www.linkedin.com/in/mariam-riad-629340298/]
+Name: Mariam Riad
+
+Email: mariamriad285@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/mariam-riad-629340298/
